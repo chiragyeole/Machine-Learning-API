@@ -1,3 +1,6 @@
+########### MACHINE LEARNING API ################################
+
+For detailed information, please check Design_Decisions.pdf
 
 ###### INSTRUCTIONS TO RUN THE API ############################
 
